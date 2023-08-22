@@ -1,3 +1,5 @@
+//2023-08-22 숨박꼭질
+//Solved
 #include "bits/stdc++.h"
 #define MAX 1e9 
 //2배 절반일 때
