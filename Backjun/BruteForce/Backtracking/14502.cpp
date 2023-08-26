@@ -18,7 +18,6 @@ void copy_table(){
         for (int j = 0; j < m; j++) {
             table_copy[i][j] = table[i][j];
         }
-
     }
 }
 void spread_virus(pair<short, short> pos){
